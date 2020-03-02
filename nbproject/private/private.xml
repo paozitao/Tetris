@@ -3,16 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/project/course/Java/Tetris/src/ui/ClientPanel.java</file>
+            <file>file:/D:/project/course/Java/Tetris/src/ui/controller/BlocksController.java</file>
+            <file>file:/D:/project/course/Java/Tetris/src/Connect/Server.java</file>
             <file>file:/D:/project/course/Java/Tetris/src/ui/MainFrame.java</file>
             <file>file:/D:/project/course/Java/Tetris/src/ui/HostFrame.java</file>
-            <file>file:/D:/project/course/Java/Tetris/src/ui/ClientFrame.java</file>
             <file>file:/D:/project/course/Java/Tetris/src/ui/GameFrame.java</file>
             <file>file:/D:/project/course/Java/Tetris/src/ui/HostPanel.java</file>
-            <file>file:/D:/project/course/Java/Tetris/build.xml</file>
+            <file>file:/D:/project/course/Java/Tetris/src/ui/GamePanel.java</file>
             <file>file:/D:/project/course/Java/Tetris/src/ui/MenuPanel.java</file>
-            <file>file:/D:/project/course/Java/Tetris/build/built-jar.properties</file>
-            <file>file:/D:/project/course/Java/Tetris/src/tetris/Tetris.java</file>
+            <file>file:/D:/project/course/Java/Tetris/src/Connect/Client.java</file>
+            <file>file:/D:/project/course/Java/Tetris/src/ui/GameOver.java</file>
         </group>
     </open-files>
 </project-private>

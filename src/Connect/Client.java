@@ -39,8 +39,6 @@ public class Client {
         pw.println(self);
         pw.flush();
         host=br.readLine();
-        System.out.println("1.连接房间，主机游戏界面："+host);
-        System.out.println("1.连接房间，Client游戏界面："+self);
         new Thread(new Wait()).start();
         }
 //            等待主机发送开始通知，当游戏开始后启动发送和接受消息线程
